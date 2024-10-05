@@ -335,7 +335,7 @@ html {
   margin-top: 150px;
 }
 .body-banner {
-  background-image: url(/assets/img/banner.png);
+  background-image: url(../img/banner.png);
   width: 100%;
   border-radius: 25px;
   height: 370px;
@@ -498,7 +498,7 @@ html {
   margin-top: 150px;
 }
 .body-banner-2 {
-  background-image: url(/assets/img/banner-2.png);
+  background-image: url(../img/banner-2.png);
   display: flex;
   width: 100%;
   height: 445px;
